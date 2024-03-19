@@ -1,0 +1,44 @@
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#rojo{
+    color:red
+}
+
+.negrita{
+    font-weight: bolder;
+}
+
+.verde{
+    color: darkgreen;
+}
+
+h1{
+    padding: 7%;
+    padding-left: 25%;
+    border-style: solid;
+    border-color: burlywood;
+    border-width: 3px;
+}
+
+h2{
+    margin-top: 10%;
+    border-style: solid;
+    border-color: burlywood;
+    border-width: 3px;
+}
+
+.midiv{
+    border-style: dashed;
+    border-color: blueviolet;
+    padding: 5%;
+    font-style: italic;
+}
+
+.titulo{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: normal;
+    font-weight: 10;
+    background-color: rgb(185, 184, 184);
+}
